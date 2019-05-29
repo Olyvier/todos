@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css');
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: 'Roboto Slab',serif;
+}
+
+
+.todo-item{
+  margin-bottom: 12px;
+  display: flex;
+ /*  align-items: center; */
+  justify-content: space-between;
+  animation-duration: .5s;
+}
+
+.remove-item{
+  cursor: pointer;
+}
+
+.remove-item:hover{
+  color:back;
+}
+
+.completed{
+  text-decoration: line-through;
+  color: grey;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition : opacity .5s;
+}
+
+.fade-enter, .fade-leave-to {
+opacity : 0;
+}

@@ -1,0 +1,61 @@
+* Vue.js Todo App
+  * [] Create index.html
+  * [] Add Vue.js to index.html
+  * [] Create a Vue instance in app.js
+  * [] Show message from Vue instance on page
+  * [] Create a new Todo form
+  * [] Call a function when the form is submitted
+  * [] Create a string property on our data to store the user input
+  * [] Watch the property change as we type in the input
+  * [] Log the user input when the form is submitted
+  * [] Create an array property on our data for todos
+  * [] Push the new todo into the todos array, with done : false
+  * [] Show the todos in a list
+  * [] Check done on a todo to mark it as done
+  * [] Show a line through the todo text
+  * [] Add a button to delete a todo
+  * [] Add a button to mark all todos as done
+-----------------------
+* Whats's Vue.js ?
+
+* Player Core Counter
+  * [] Generate Simple App
+  * [] Add Bootswatch
+  * [] Up Button For Player 1
+  * [] Down Button For Player 1
+  * [] Up Button For Player 2
+  * [] Down Button For Player 2
+  * [] Watch score for changes and save to localStorage
+  * [] Load score from localStorage on page Load
+
+* Todo App
+  * [] Generate Simple App
+  * [] Add Bootswatch
+  * [] Form to add todo
+  * [] Add todo list when form submitted
+  * [] Show todos in a list on page
+  * [] Click a todo mark it as done
+  * [] delete button for todo
+  * [] Watch todos for changes and save to localStorage
+  * [] Load todos from localStorage on page Load
+
+* Reddit Client
+  * [] Generate App with Router
+  * [] Add Bootswatch
+  * [] Fetch posts from reddit
+  * [] Add posts to page
+  * [] make it look kind of like reddit
+  * [] Add favorite button to post
+  * [] Add favorites page to show favorites
+  * [] save favorites to localStorage
+  * [] Load favorites on page Load
+
+* Movie Search
+  * [] Add Bootswatch
+  * [] Add form to search movies by title
+  * [] Fetch movies when form submitted
+  * [] Add movies to page
+  * [] Click movie to go to movie page
+  * [] Create movie Router
+  * [] Fetch single movie on movie page
+
